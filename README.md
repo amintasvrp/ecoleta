@@ -34,7 +34,7 @@ Ecoleta is an web/mobile application to connect companies and entities that coll
 1. Make a clone:
 
 ```sh
-   git clone https://github.com/vitorserrano/ecoleta.git
+   git clone https://github.com/amintasvrp/ecoleta.git
 ```
 
 2. Running the Application:
