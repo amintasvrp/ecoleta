@@ -1,7 +1,7 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src="./mobile/src/assets/logo@2x.png">
     <br></br>
-    <b>Seu marketplace de coleta de resíduos</b>  
+    <b>Your waste collection marketplace</b>  
     <br>
 </h3>
 
