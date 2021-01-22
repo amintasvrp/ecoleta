@@ -41,23 +41,23 @@ Ecoleta is an web/mobile application to connect companies and entities that coll
 
 ```sh
    # Install the dependencies
-   $ npm install
+   npm install
 
    ## Create the database
-   $ cd server
-   $ npm run knex: migrate
-   $ npm run knex: seed
+   cd server
+   npm run knex: migrate
+   npm run knex: seed
 
    # Start the API
-   $ npm run dev
+   npm run dev
 
    # Launch the web application
-   $ cd web
-   $ npm start
+   cd web
+   npm start
 
    # Launch the mobile application
-   $ cd mobile
-   $ npm start
+   cd mobile
+   npm start
 ```
 
 ## Contributing
