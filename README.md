@@ -19,8 +19,8 @@ Ecoleta is an web/mobile application to connect companies and entities that coll
 
 ## Demo
 <p align="center">
-    <img src="./docs/ecoleta-web.gif" width="79%" height="350"/>
-    <img src="./docs/ecoleta-mobile.gif" width="20%" height="350" />
+    <img src="./docs/ecoleta-web.gif" width="79%"/>
+    <img src="./docs/ecoleta-mobile.gif" width="20%" height="-1500%" />
 </p>
 
 ## Getting Started
