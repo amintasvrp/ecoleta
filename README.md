@@ -8,7 +8,7 @@
 </br>
 
 <p align="center">
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node-dot-js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
     <img alt="React Native" src="https://img.shields.io/badge/-React Native-764ABC?style=for-the-badge&logo=react&logoColor=white" />
     <img alt="MariaDB" src="https://img.shields.io/badge/-Maria DB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
