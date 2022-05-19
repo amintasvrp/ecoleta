@@ -18,9 +18,9 @@
 Ecoleta is an web/mobile application to connect companies and entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
 
 ## Demo
-<p align="center">
-    <img src="./docs/ecoleta-web.gif" width="78%"/>
-    <img src="./docs/ecoleta-mobile.gif" width="15.6%" />
+<p float="center">
+    <img src="./docs/ecoleta-web.gif" width="573"/>
+    <img src="./docs/ecoleta-mobile.gif" width="115" />
 </p>
 
 ## Getting Started
